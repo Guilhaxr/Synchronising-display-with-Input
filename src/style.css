@@ -1,0 +1,12 @@
+.Input {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.Title{
+    justify-content: center;
+    display: flex;
+}
+
+
